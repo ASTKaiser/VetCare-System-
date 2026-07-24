@@ -4,7 +4,7 @@
 * **Recepcionista:** Usuario principal. Registra clientes, mascotas, agenda, modifica y cancela citas, y consulta horarios disponibles.
 * **Veterinario:** Usuario de consulta. Revisa las citas programadas y sus horarios de atención disponibles.
 * **Administrador:** Usuario con privilegios extendidos. Registra veterinarios, administra usuarios del sistema y supervisa la información general.
-* **Cliente:** (Fase posterior) Solicitará o consultará citas de forma autónoma.
+* **Cliente:** Solicitará o consultará citas de forma autónoma.
 
 ## Casos de Uso Principales
 1. Registrar cliente
